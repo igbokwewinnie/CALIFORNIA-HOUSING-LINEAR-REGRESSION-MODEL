@@ -1,0 +1,2 @@
+# CALIFORNIA-HOUSING-LINEAR-REGRESSION-MODEL
+I carried out a simple Linear Regression model on California housing price, where i did dome Explanatory Data Analysis(EDA), i was also able to get more understanding on the dataset by splitting, training, validating and testing the model. The goal of this homework is to create a regression model for predicting housing prices (column 'median_house_value').
